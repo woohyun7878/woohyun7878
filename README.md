@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Woohyun Michael Jo @woohyun7878 
-- 👀 I’m interested in data structures!
-- 🌱 I’m a student at UC Berkeley ...
+- 👀 I’m interested in algorithm development, cybersecurity, and machine learning
+- 🌱 I’m a student at UC Berkeley
 - 📫 linkedin.com/in/woohyunmjo
