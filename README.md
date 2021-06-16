@@ -8,4 +8,4 @@
 
 **My [LinkedIn](linkedin.com/in/woohyunmjo) and [Website](woohyunmjo.com)**
 
-![Woohyunmjo's github stats](https://github-readme-stats.vercel.app/api?username=woohyunmjo)
+![Woohyun7878's github stats](https://github-readme-stats.vercel.app/api?username=woohyun7878)
