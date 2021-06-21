@@ -8,4 +8,10 @@
 
 **My [LinkedIn](linkedin.com/in/woohyunmjo) and [Website](woohyunmjo.com)**
 
-![Woohyun7878's github stats](https://github-readme-stats.vercel.app/api?username=woohyun7878)
+
+<a href="https://github.com/woohyun7878/github-stats">
+
+![](https://github.com/woohyun7878/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/woohyun7878/github-stats/blob/master/generated/languages.svg)
+
+</a>
