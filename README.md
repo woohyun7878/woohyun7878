@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub! I'm a Computer Science student at UC Berkeley.**
 
-**I’m interested in algorithm development, cybersecurity, and machine learning.**
+**I’m interested in cybersecurity, algorithms, and databases.**
 
 **I'm also a former SWE Intern @[**Fasoo**](https://en.fasoo.com/).**
 
