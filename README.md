@@ -1,6 +1,6 @@
 ## Hello World! 👋 I’m Woohyun Michael Jo @woohyun7878 
 
-**Welcome to my GitHub! I'm a Computer Science student at UC Berkeley.**
+**Welcome to my GitHub! I'm an SWE Intern @TikTok and a Computer Science student at UC Berkeley.**
 
 **I’m interested in cybersecurity, algorithms, and databases.**
 
