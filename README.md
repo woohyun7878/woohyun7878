@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub! I'm an SWE Intern @[**TikTok**](https://careers.tiktok.com/) and a Computer Science student at UC Berkeley.**
 
-**I’m interested in cybersecurity, algorithms, and databases.**
+**I specialize in risk control and data mining for human endpoints!**
 
 **I'm also a former SWE Intern @[**Fasoo**](https://en.fasoo.com/).**
 
