@@ -6,7 +6,7 @@
 
 **I'm also a former SWE Intern @[**Fasoo**](https://en.fasoo.com/).**
 
-**My [LinkedIn](linkedin.com/in/woohyunmjo) and [Website](woohyunmjo.com)**
+**My [LinkedIn](https://linkedin.com/in/woohyunmjo) and [Website](https://woohyunmjo.com)**
 
 
 <a href="https://github.com/woohyun7878/github-stats">
