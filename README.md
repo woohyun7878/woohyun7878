@@ -4,7 +4,7 @@
 
 **I specialize in risk control and data mining for human endpoints!**
 
-**I'm also a former SWE Intern @[**Fasoo**](https://en.fasoo.com/).**
+**I'm also a former SWE Intern @[**Fasoo**](https://en.fasoo.com/) and @[**Proofpoint**](https://www.proofpoint.com/us).**
 
 **My [LinkedIn](https://linkedin.com/in/woohyunmjo) and [Website](https://woohyunmjo.com)**
 
